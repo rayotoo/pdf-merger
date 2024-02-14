@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/rayotoo/pdfMerger/actions/workflows/codeql.yml/badge.svg)](https://github.com/rayotoo/pdfMerger/actions/workflows/codeql.yml)
+
 # pdfMerger
 PDF Merger: Merging Multiple PDF Files in Python
 # PDF Merger
